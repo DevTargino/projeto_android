@@ -23,7 +23,7 @@ Projeto Android (site de estudo)
 
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Créditos">Creditos</a> •
-<a href="#licença">Licença</a> 
+<a href="#Licença">Licença</a> 
 
 </p>
 
